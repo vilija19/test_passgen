@@ -9,7 +9,7 @@
             "email": "billibons777@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Vilija19\\passgen\\":"src"
